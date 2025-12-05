@@ -1,0 +1,58 @@
+name: lorean.keeling
+description: Cross-platform
+version: 0.2.3.132
+author: m601sioc.ujtc8u7p@qxzwhlyd.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: loreankeeling
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-12-05 22:48:02'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-12-05 22:48:02'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-12-05T22:48:02.744962Z'
+  name: plibMaven
+  version: 8.16.0-SNAPSHOT
+  id: '1943618221'
+  createdAt: '2025-12-05T22:48:02.744962Z'
+  type: plibMaven
+projectDependencies:
+  '420':
+    projectUID: 420
+    projectName: brianna.raynor
+    repositoryPath: gitUri=http://gitserver:3000/dev_GVfmbmHl_team_715/dev_GVfmbmHl_project_420.git&subPath=
+    version: brianna.raynor/9.4.2.7
+    isDefault: false
+    author: null
+    createdAt: '2025-12-05 22:48:02'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
